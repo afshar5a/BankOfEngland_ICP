@@ -2,9 +2,10 @@
 ## Sentiment in Central Bank Speeches and UK Economic Conditions
 
 **Student:** Afshar Sanam
+
 **University:** London School of Economics and Political Sciences  
 **Programme:** Post Graduation in Data Analytics  
-**Academic Supervisor:** James Abdey  
+**Academic Supervisor:** Professor. James Abdey  
 
 ---
 
